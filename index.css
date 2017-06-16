@@ -1,0 +1,46 @@
+body {
+    background-image: url(http://ocean.nationalgeographic.com/u/TvyamNb-BivtNwpvn7Sct0VFDulyAfA9wBcU0gVHVnqC5ghqXjggeitqtJ-1ZIZ1rmCgor42TXOteIQU/);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-family: 'Mogra', cursive;
+}
+
+.tagline {
+	text-align: center;
+    font-size: 20px;
+    background-color: #00bfff;
+    font-family: 'Indie Flower', cursive;
+}
+
+.footer {
+    background-color: #3c5499;
+    padding: 1.2rem;
+    text-align: center;
+}
+
+.footer a {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0 1.618rem;
+}
+
+.footer a:hover {
+    color: #30bae7;
+}
+
+.content {
+	border-style: outset;
+	background-color: #8deeee;
+	border-radius: 5px;
+	font-size: 20px;
+	font-family: 'Mogra', cursive;
+}
