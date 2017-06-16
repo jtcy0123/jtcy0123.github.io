@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$('.galery').click(function(){
+		$(".content").hide();
+		$("img").attr('height','30%');
+		$("img").attr('width','30%');
+		$("#image").attr('src',"http://www.livescience.com/images/i/000/084/401/original/great-white-shark.jpeg");
+		$("#image2").attr('src',"http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Fish/A-G/clown-anemonefish-tentacles.ngsversion.1470600539619.adapt.1900.1.jpg");
+	});
+})

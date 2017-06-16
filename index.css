@@ -15,7 +15,7 @@ body {
 
 .tagline {
 	text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     background-color: #00bfff;
     font-family: 'Indie Flower', cursive;
 }
@@ -41,7 +41,11 @@ body {
 	border-style: outset;
 	background-color: #8deeee;
 	border-radius: 5px;
-    text-align: center;
 	font-size: 20px;
 	font-family: 'Mogra', cursive;
 }
+
+/*img {
+    height: 100px;
+    width: 50%;
+}*/

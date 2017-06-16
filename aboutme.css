@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-family: 'Mogra', cursive;
+}
+
+.footer {
+    background-color: #3c5499;
+    padding: 1.2rem;
+    text-align: center;
+}
+
+.footer a {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0 1.618rem;
+}
+
+.footer a:hover {
+    color: #30bae7;
+}
+
+.desc {
+	font-size: 20px;
+	font-family: 'Mogra', cursive;
+}
