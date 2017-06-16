@@ -1,6 +1,7 @@
 $(document).ready(function(){
 	$('.galery').click(function(){
 		$(".content").hide();
+		$(".desc").hide();
 		$("img").attr('height','30%');
 		$("img").attr('width','30%');
 		$("#image").attr('src',"http://www.livescience.com/images/i/000/084/401/original/great-white-shark.jpeg");
