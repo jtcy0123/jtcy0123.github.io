@@ -45,7 +45,7 @@ body {
 	font-family: 'Mogra', cursive;
 }
 
-/*img {
-    height: 100px;
-    width: 50%;
-}*/
+#game {
+    height: 10%;
+    width: 10%;
+}
